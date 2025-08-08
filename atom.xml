@@ -3,11 +3,11 @@
   <title>Zero</title>
   
   <subtitle>Zero学Java</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://zero-zl-0.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://zero-zl-0.github.io/"/>
   <updated>2025-08-07T05:50:10.978Z</updated>
-  <id>http://example.com/</id>
+  <id>https://zero-zl-0.github.io/</id>
   
   <author>
     <name>Zero</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/undefined/4a17b156.html"/>
-    <id>http://example.com/undefined/4a17b156.html</id>
+    <link href="https://zero-zl-0.github.io/undefined/4a17b156.html"/>
+    <id>https://zero-zl-0.github.io/undefined/4a17b156.html</id>
     <published>2025-08-07T02:01:18.807Z</published>
     <updated>2025-08-07T05:50:10.978Z</updated>
     
